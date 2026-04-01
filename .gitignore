@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+.venv/
+
+# Project Specific
+MP_Data/
+action.h5
+hand_landmarker.task
+downloaded_video.mp4
+
+# OS
+.DS_Store
+Thumbs.db
