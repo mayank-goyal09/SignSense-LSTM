@@ -1,0 +1,48 @@
+﻿============================================================
+  SIGNSENSE DATA QUALITY REPORT
+============================================================
+python : Traceback (most 
+recent call last):
+At line:1 char:1
++ python diagnose_data.py 
+2>&1 | Out-File -Encoding 
+utf8 diagnose_outpu ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~
+    + CategoryInfo         
+     : NotSpecified: (Tra  
+  ceback (most recent ca   
+ ll last)::String) [],     
+RemoteException
+    + FullyQualifiedErrorI 
+   d : NativeCommandError
+ 
+  File 
+"C:\my_local_data(one drive
+)\Attachments\Ambition cour
+se\my_all_projects\project 
+56 SignLanguageProject\diag
+nose_data.py", line 50, in 
+<module>
+    print(f"\n\U0001f4cc 
+Action: {action.upper()}")
+    ~~~~~^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Wi
+ndowsApps\PythonSoftwareFou
+ndation.Python.3.13_3.13.33
+12.0_x64__qbz5n2kfra8p0\Lib
+\encodings\cp1252.py", 
+line 19, in encode
+    return codecs.charmap_e
+ncode(input,self.errors,enc
+oding_table)[0]
+           ~~~~~~~~~~~~~~~~
+~~~~~^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^
+UnicodeEncodeError: 
+'charmap' codec can't 
+encode character 
+'\U0001f4cc' in position 
+2: character maps to 
+<undefined>
