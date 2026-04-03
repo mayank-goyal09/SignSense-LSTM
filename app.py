@@ -2,7 +2,7 @@
 import cv2
 import numpy as np
 from tensorflow.keras.models import load_model
-from utils import extract_landmarks # Import missing function
+from lm_utils import extract_landmarks # Import missing function
 
 # Actions array MUST match training
 actions = np.array(['hello', 'how_you', 'hi', 'whats_up', 'you_good'])

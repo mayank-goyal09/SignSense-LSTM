@@ -2,7 +2,7 @@
 import cv2
 import os
 import numpy as np
-from utils import extract_landmarks
+from lm_utils import extract_landmarks
 
 # Define the segments (Start frame, End frame) assuming 30fps
 segments = {
