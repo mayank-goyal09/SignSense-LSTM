@@ -130,7 +130,7 @@ Accumulate temporal history:
 <tr>
 <td>
 
-#### 🧠 **3. LSTM Model**
+#### 🧠 **3. LSTM Architecture**
 Neural network specifically for sequences:
 - Input shape: (30, 63)
 - layers: Multi-stacked LSTM + Dropout
@@ -139,11 +139,12 @@ Neural network specifically for sequences:
 </td>
 <td>
 
-#### 📊 **4. Live Feedback**
-Real-time dashboard visualization:
-- Dynamic probability bars
-- 1-second rolling prediction window
-- Permanent translation history log
+#### 📊 **4. Inference & Display**
+Real-time predictions served via:
+- City-specific last 30-day window
+- Temperature forecast in °C
+- Interactive Plotly visualizations
+- Mobile-friendly experience
 
 </td>
 </tr>
