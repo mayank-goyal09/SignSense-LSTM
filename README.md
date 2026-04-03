@@ -102,3 +102,16 @@ The **SignSense** interface was designed to feel premium, modern, and high-perfo
 *   **Translation History**: A searchable log of previous detections to help users track conversational strings.
 
 ---
+
+### 📖 How to Use
+
+1.  **Grant Permissions**: Allow your browser to access the camera when prompted.
+2.  **Start Engine**: Click the **"▶ Start Engine"** button in the sidebar.
+3.  **Perform Sign**: Move your hand clearly within the frame. (Try "Hello" or "How are you").
+4.  **Observe**: Watch the "Current Detection" card update in real-time as the LSTM processes your movement.
+5.  **History**: Scroll down to see your translation sequence in the history log.
+
+---
+<div align="center">
+  <sub>Developed for Accessibility • Powered by AI • Built for the Community</sub>
+</div>
