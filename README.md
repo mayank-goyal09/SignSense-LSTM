@@ -2,7 +2,7 @@
 
 # 🤟 SignSense-LSTM — Real-Time Sign Language Translation
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=32&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Deep+Learning+Motion+Sequence+Translation+🤟;30-Frame+Temporal+Awareness+→+Real-Time+Output;LSTM+Neural+Network+%7C+92%25+Classification+Accuracy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=32&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&width=900&height=150&lines=Deep+Learning+Motion+Sequence+Translation+🤟;30-Frame+Temporal+Awareness+→+Real-Time+Output;LSTM+Neural+Network+%7C+92%25+Classification+Accuracy)](https://git.io/typing-svg)
 
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.1x-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
