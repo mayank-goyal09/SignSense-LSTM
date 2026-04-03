@@ -29,8 +29,8 @@ try:
         print("[INFO] Using MediaPipe Tasks API")
     else:
         print(f"[WARNING] '{MODEL_PATH}' not found. Will attempt legacy API fallback.")
-except ImportError:
-    pass
+except Exception as e:
+    print(f"[WARNING] Tasks API unavailable ({e}). Falling back to legacy API.")
 
 if not USING_TASKS_API:
     try:
